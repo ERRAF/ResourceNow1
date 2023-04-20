@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_982834_resourcen_projects">x_982834_resourcen_projects</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PRO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:31:04</sys_created_on>
+        <sys_id>cf73243d1bd62190bab155f0604bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_update_name>sys_number_cf73243d1bd62190bab155f0604bcb76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:31:04</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</application>
+        <file_path/>
+        <instance_id>557ad7c6db572490e26fd7c8f496190b</instance_id>
+        <instance_name>dev110405</instance_name>
+        <name>sys_number_cf73243d1bd62190bab155f0604bcb76</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_982834_resourcen_projects">x_982834_resourcen_projects</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>PRO</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 21:31:04</sys_created_on><sys_id>cf73243d1bd62190bab155f0604bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PRO</sys_name><sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package><sys_policy/><sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope><sys_update_name>sys_number_cf73243d1bd62190bab155f0604bcb76</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 21:31:04</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1679986849</payload_hash>
+        <record_name>PRO</record_name>
+        <reverted_from/>
+        <source>13d51f551b16ed50bab155f0604bcb05</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:31:04</sys_created_on>
+        <sys_id>d373243d1bd62190bab155f0604bcb92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1879b6d9b520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:31:04</sys_updated_on>
+        <type>Number</type>
+        <update_guid>1b73243d52d6219079d5690437e04191</update_guid>
+        <update_guid_history>1b73243d52d6219079d5690437e04191:1679986849</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:40:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>1e0add4c35094146bbe404d697fbb084</sys_id>
+        <sys_metadata>cf73243d1bd62190bab155f0604bcb76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRO</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_parent display_value="">eb532cf91bd62190bab155f0604bcb5e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_scope_delete display_value="">aaf8cde2436244209de52dca0b9ecb44</sys_scope_delete>
+        <sys_update_name>sys_number_cf73243d1bd62190bab155f0604bcb76</sys_update_name>
+        <sys_update_version display_value="sys_number_cf73243d1bd62190bab155f0604bcb76">d373243d1bd62190bab155f0604bcb92</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:40:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

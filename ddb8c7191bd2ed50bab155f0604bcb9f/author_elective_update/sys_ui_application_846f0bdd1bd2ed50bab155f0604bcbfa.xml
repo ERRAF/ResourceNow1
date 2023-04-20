@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Resource</name>
+        <order/>
+        <roles>x_982834_resourcen.reservation_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 20:45:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>846f0bdd1bd2ed50bab155f0604bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resource</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_update_name>sys_ui_application_846f0bdd1bd2ed50bab155f0604bcbfa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 20:45:06</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</application>
+        <file_path/>
+        <instance_id>557ad7c6db572490e26fd7c8f496190b</instance_id>
+        <instance_name>dev110405</instance_name>
+        <name>sys_ui_application_846f0bdd1bd2ed50bab155f0604bcbfa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Resource</name><order/><roles>x_982834_resourcen.reservation_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-18 20:45:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>846f0bdd1bd2ed50bab155f0604bcbfa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resource</sys_name><sys_overrides/><sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package><sys_policy/><sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope><sys_update_name>sys_ui_application_846f0bdd1bd2ed50bab155f0604bcbfa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-18 20:45:06</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-434662764</payload_hash>
+        <record_name>Resource</record_name>
+        <reverted_from/>
+        <source>99b8c7191bd2ed50bab155f0604bcba1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 20:45:06</sys_created_on>
+        <sys_id>0c6f0bdd1bd2ed50bab155f0604bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187961d29fb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 20:45:06</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>406f0bdd3ad2ed50cd14057e1f7eaefc</update_guid>
+        <update_guid_history>406f0bdd3ad2ed50cd14057e1f7eaefc:-434662764</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:09:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>3108789609e64edf9beb02c39e2cbe41</sys_id>
+        <sys_metadata>846f0bdd1bd2ed50bab155f0604bcbfa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resource</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_scope_delete display_value="">aaf8cde2436244209de52dca0b9ecb44</sys_scope_delete>
+        <sys_update_name>sys_ui_application_846f0bdd1bd2ed50bab155f0604bcbfa</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_846f0bdd1bd2ed50bab155f0604bcbfa">0c6f0bdd1bd2ed50bab155f0604bcbfc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:09:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

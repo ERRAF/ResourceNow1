@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Projets">93cad4f11bd62190bab155f0604bcb4b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Projects</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_982834_resourcen_projects</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_982834_resourcen.projects_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 20:53:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9fcad4f11bd62190bab155f0604bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Projects</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_update_name>sys_app_module_9fcad4f11bd62190bab155f0604bcb4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 20:53:07</sys_updated_on>
+        <timeline_page/>
+        <title>Projects</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</application>
+        <file_path/>
+        <instance_id>557ad7c6db572490e26fd7c8f496190b</instance_id>
+        <instance_name>dev110405</instance_name>
+        <name>sys_app_module_9fcad4f11bd62190bab155f0604bcb4e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Projets">93cad4f11bd62190bab155f0604bcb4b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Projects</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_982834_resourcen_projects</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_982834_resourcen.projects_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 20:53:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9fcad4f11bd62190bab155f0604bcb4e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Projects</sys_name><sys_overrides/><sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package><sys_policy/><sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope><sys_update_name>sys_app_module_9fcad4f11bd62190bab155f0604bcb4e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 20:53:07</sys_updated_on><timeline_page/><title>Projects</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1245332972</payload_hash>
+        <record_name>Projects</record_name>
+        <reverted_from/>
+        <source>13d51f551b16ed50bab155f0604bcb05</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 20:53:07</sys_created_on>
+        <sys_id>9fcad4f11bd62190bab155f0604bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1879b4add450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 20:53:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>57cad4f11ed6219073e607e18d678151</update_guid>
+        <update_guid_history>57cad4f11ed6219073e607e18d678151:1245332972</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Projects">8192a0f91bd62190bab155f0604bcbbb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:27:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6bc11db6844e4a419b32554f57e36cd9</sys_id>
+        <sys_metadata>9fcad4f11bd62190bab155f0604bcb4e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Projects</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_scope_delete display_value="">aaf8cde2436244209de52dca0b9ecb44</sys_scope_delete>
+        <sys_update_name>sys_app_module_9fcad4f11bd62190bab155f0604bcb4e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9fcad4f11bd62190bab155f0604bcb4e">9fcad4f11bd62190bab155f0604bcb6a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:27:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

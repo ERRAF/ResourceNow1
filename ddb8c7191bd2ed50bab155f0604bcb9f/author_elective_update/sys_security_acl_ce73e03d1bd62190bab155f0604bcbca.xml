@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_982834_resourcen_projects</description>
+        <name>x_982834_resourcen_projects</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:30:59</sys_created_on>
+        <sys_id>ce73e03d1bd62190bab155f0604bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982834_resourcen_projects</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_update_name>sys_security_acl_ce73e03d1bd62190bab155f0604bcbca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:30:59</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</application>
+        <file_path/>
+        <instance_id>557ad7c6db572490e26fd7c8f496190b</instance_id>
+        <instance_name>dev110405</instance_name>
+        <name>sys_security_acl_ce73e03d1bd62190bab155f0604bcbca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_982834_resourcen_projects</description><name>x_982834_resourcen_projects</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 21:30:59</sys_created_on><sys_id>ce73e03d1bd62190bab155f0604bcbca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_982834_resourcen_projects</sys_name><sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package><sys_policy/><sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope><sys_update_name>sys_security_acl_ce73e03d1bd62190bab155f0604bcbca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 21:30:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>274875052</payload_hash>
+        <record_name>x_982834_resourcen_projects</record_name>
+        <reverted_from/>
+        <source>13d51f551b16ed50bab155f0604bcb05</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:31:00</sys_created_on>
+        <sys_id>4a73e03d1bd62190bab155f0604bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1879b6d8a4c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:31:00</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>8e73e03d97d62190b24a420bd7ba30cc</update_guid>
+        <update_guid_history>8e73e03d97d62190b24a420bd7ba30cc:274875052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 21:40:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>00b2e3db448d4eb0a493ffa58f73b900</sys_id>
+        <sys_metadata>ce73e03d1bd62190bab155f0604bcbca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_982834_resourcen_projects</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_parent display_value="">9273243d1bd62190bab155f0604bcb2d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_scope_delete display_value="">aaf8cde2436244209de52dca0b9ecb44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ce73e03d1bd62190bab155f0604bcbca</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ce73e03d1bd62190bab155f0604bcbca">4a73e03d1bd62190bab155f0604bcbcd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 21:40:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

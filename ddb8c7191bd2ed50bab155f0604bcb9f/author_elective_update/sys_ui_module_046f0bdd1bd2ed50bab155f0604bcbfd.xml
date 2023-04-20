@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Resource">846f0bdd1bd2ed50bab155f0604bcbfa</application>
+        <filter/>
+        <name>Reservations</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_982834_resourcen.reservation_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 20:45:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>046f0bdd1bd2ed50bab155f0604bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservations</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_update_name>sys_ui_module_046f0bdd1bd2ed50bab155f0604bcbfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 20:45:06</sys_updated_on>
+        <table>x_982834_resourcen_reservation</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</application>
+        <file_path/>
+        <instance_id>557ad7c6db572490e26fd7c8f496190b</instance_id>
+        <instance_name>dev110405</instance_name>
+        <name>sys_ui_module_046f0bdd1bd2ed50bab155f0604bcbfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Resource">846f0bdd1bd2ed50bab155f0604bcbfa</application><filter/><name>Reservations</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_982834_resourcen.reservation_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-18 20:45:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>046f0bdd1bd2ed50bab155f0604bcbfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reservations</sys_name><sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package><sys_policy/><sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope><sys_update_name>sys_ui_module_046f0bdd1bd2ed50bab155f0604bcbfd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-18 20:45:06</sys_updated_on><table>x_982834_resourcen_reservation</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1782984378</payload_hash>
+        <record_name>Reservations</record_name>
+        <reverted_from/>
+        <source>99b8c7191bd2ed50bab155f0604bcba1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-18 20:45:06</sys_created_on>
+        <sys_id>406f4bdd1bd2ed50bab155f0604bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187961d2a280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-18 20:45:06</sys_updated_on>
+        <type>Module</type>
+        <update_guid>846f0bdd82d2ed503d1df767d70686ff</update_guid>
+        <update_guid_history>846f0bdd82d2ed503d1df767d70686ff:-1782984378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 20:49:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>00bf1d4826e842c082e60cb58629a900</sys_id>
+        <sys_metadata>046f0bdd1bd2ed50bab155f0604bcbfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reservations</sys_name>
+        <sys_package display_value="ResourceNow" source="x_982834_resourcen">ddb8c7191bd2ed50bab155f0604bcb9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResourceNow">ddb8c7191bd2ed50bab155f0604bcb9f</sys_scope>
+        <sys_scope_delete display_value="">aaf8cde2436244209de52dca0b9ecb44</sys_scope_delete>
+        <sys_update_name>sys_ui_module_046f0bdd1bd2ed50bab155f0604bcbfd</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_046f0bdd1bd2ed50bab155f0604bcbfd">406f4bdd1bd2ed50bab155f0604bcb00</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 20:49:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
